@@ -330,13 +330,3 @@ http://localhost:8501
 
 ---
 
-## Author
-
-Pritish Kumar Singh
-Electrical Engineering | Data Science | Machine Learning
-
-##  Connect With Me
-
-* Email: [pritishsinghprf@gmail.com](mailto:pritishsinghprf@gmail.com)
-* LinkedIn: www.linkedin.com/in/pritish1298
-
